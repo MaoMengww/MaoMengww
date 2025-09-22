@@ -3,6 +3,12 @@
 <br>
 <br>
 
+![语言](https://img.shields.io/badge/Language-golang-blue)
+![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
+![老婆](https://img.shields.io/badge/老婆-天野远子-red)
+<br>
+<br>
+
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MaoMengww&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github&card_width=495&height=250" style="height: 230px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaoMengww&locale=cn&line_height=33&theme=&langs_count=5&layout=pie&card_width=495&height=250" style="height: 230px;" />
