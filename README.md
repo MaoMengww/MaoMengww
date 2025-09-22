@@ -8,9 +8,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaoMengww&show_icons=true&theme=tokyonight)
 <br>
 <br>
-[![语言-Go](https://img.shields.io/badge/语言-golang-blue)](https://golang.org/)
-[![爱好-ACG&排球](https://img.shields.io/badge/爱好-ACG&排球-red)](https://example.com/acg-volleyball)
-[![老婆-天野远子](https://img.shields.io/badge/老婆-天野远子-red)](https://example.com/tianye-yuanzi)
+[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/爱好-二次元-red)
 <br>
 <br>
 ![头像](image/头像.jpg)
