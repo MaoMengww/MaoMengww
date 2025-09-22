@@ -9,8 +9,7 @@
 <br>
 <br>
 
-        ![语言](https://img.shields.io/badge/Language-golang-blue)
-
+![语言](https://img.shields.io/badge/Language-golang-blue)
 ![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
 ![老婆](https://img.shields.io/badge/老婆-天野远子-red)
 <br>
