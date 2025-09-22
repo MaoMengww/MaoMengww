@@ -5,10 +5,10 @@
 <br>
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaoMengww&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaoMengww&show_icons=true&theme=tokyonight)
 <br>
 <br>
-![](https://img.shields.io/badge/语言-golang-yellow) 
+![](https://img.shields.io/badge/语言-golang-blue) 
 ![](https://img.shields.io/badge/爱好-ACG&排球-red) 
 ![](https://img.shields.io/badge/老婆-天野远子-red)
 <br>
