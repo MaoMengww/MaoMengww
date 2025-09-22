@@ -14,6 +14,7 @@
 ![老婆](https://img.shields.io/badge/老婆-天野远子-red)
 <br>
 <br>
+
 ![天野远子](image/文学少女.jpg)
 <br>
 <br>
