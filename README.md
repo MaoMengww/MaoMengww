@@ -15,7 +15,8 @@
 <br>
 <br>
 
-![天野远子](image/文学少女.jpg)
+![头像](image/头像.jpg)
+
 <br>
 <br>
 **本页访问次数/Visitor Count**
