@@ -16,11 +16,7 @@
 <br>
 <br>
 
-![语言](https://img.shields.io/badge/Language-golang-blue)
-![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
-![老婆](https://img.shields.io/badge/老婆-天野远子-red)
-<br>
-<br>
+
 
 ![头像](image/8d0941b109aaa72d5b984813394fe7381d35017f.jpg@1192w.avif)
 <br>
