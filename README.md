@@ -8,9 +8,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaoMengww&show_icons=true&theme=tokyonight)
 <br>
 <br>
-![](https://img.shields.io/badge/语言-golang-blue) 
-![](https://img.shields.io/badge/爱好-ACG&排球-red) 
-![](https://img.shields.io/badge/老婆-天野远子-red)
+![语言](https://img.shields.io/badge/语言-golang-blue) 
+![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
+![老婆](https://img.shields.io/badge/老婆-天野远子-red)
 <br>
 <br>
 ![头像](image/头像.jpg)
