@@ -23,4 +23,10 @@
 ![头像](image/8d0941b109aaa72d5b984813394fe7381d35017f.jpg@1192w.avif)
 <br>
 <br>
-
+**本页访问次数/Visitor Count**
+ 
+<br>
+<br>
+<br>
+ 
+<img width="80%" src="https://count.getloli.com/@MaoMengww?theme=asoul&padding=7&offset=0&align=top&pixelated=1&darkmode=auto" alt="Visitor Count" />
