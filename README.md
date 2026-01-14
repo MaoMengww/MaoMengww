@@ -5,10 +5,9 @@
 
 ![语言](https://img.shields.io/badge/Language-golang-blue)
 ![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
-![老婆](https://img.shields.io/badge/深情-天野远子-red)
 <br>
 <br>
-#### 这是我的博客：[秘密小屋](https://maomengblog.vercel.app/)
+#### 这是我的博客：[网站](https://maomengblog.vercel.app/)
 <br>
 <br>
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -27,13 +26,4 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!-- 3D个人贡献资料图 -->
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img src="https://github.com/MaoMengww/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
-<!-- for beauty 留个空行好看点 -->
-<div>&nbsp;</div>
 
