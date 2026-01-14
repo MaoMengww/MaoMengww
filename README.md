@@ -24,7 +24,7 @@
 <br>
 <br>
 <a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MaoMengww&show_icons=true" />
 </a>
 <br>
 <img width="80%" src="https://count.getloli.com/@MaoMengww?theme=asoul&padding=7&offset=0&align=top&pixelated=1&darkmode=auto" alt="Visitor Count" />
