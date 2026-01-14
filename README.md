@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
-<a href="https://github.com/eternidad33/eternidad33">
+<a >
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MaoMengww&show_icons=true" />
 </a>
 <br>
