@@ -24,7 +24,7 @@
 <br>
 <br>
 <a >
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MaoMengww&show_icons=false" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MaoMengww&show_icons=true" />
 </a>
 <br>
 <br>
