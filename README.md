@@ -1,9 +1,8 @@
 
-># *你好，我是猫梦，目前是一位golang萌新，急需各位大佬的呵护*😘😘
+># *你好，我是猫梦，目前是一位萌新，急需各位大佬的呵护*😘😘
 <br>
 <br>
 
-![语言](https://img.shields.io/badge/Language-golang-blue)
 ![爱好](https://img.shields.io/badge/爱好-ACG&排球-red) 
 <br>
 <br>
